@@ -6,7 +6,7 @@ import (
 
 	"github.com/eiannone/keyboard"
 	"github.com/pkg/browser"
-	"github.com/urfave/cli"
+	"gopkg.in/urfave/cli.v1"
 )
 
 import . "github.com/visionmedia/go-debug"
